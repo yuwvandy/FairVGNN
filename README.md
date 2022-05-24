@@ -14,4 +14,8 @@ To prevent the sensitive leakage caused by feature propagation, we propose a nov
 
 
 ## Result
+Here we list the performance of our model (**FairV**). To reproduce the table, please 
+```linux
+bash run_{dataset}.sh
+```
 ![](./img/german_gcn.png)
