@@ -11,3 +11,7 @@ As demonstrated by the following Figure on German dataset, the Pearson Correlati
 To prevent the sensitive leakage caused by feature propagation, we propose a novel framework FairVGNN to automatically learn fair views by identifying and masking sensitive-correlated channels and adaptively clamping weights to avoid leveraging sensitive-related features in learning fair node representations. The whole flowchart of FairVGNN is shown below:
 
 ![](./img/fairvgnn.png)
+
+
+## Result
+![](./img/german_gcn.png)
