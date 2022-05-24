@@ -20,4 +20,4 @@ bash run_german.sh (bash run_{dataset}.sh for other datasets.)
 ```
 ![](./img/german_gcn.png)
 
-We want to kindly note readers that the scatter-based propagation is a non-deterministic operation (https://github.com/rusty1s/pytorch_scatter/issues/226). Therefore, we also provide sparse matrix-based propagation to provide the reproducible results.
+We want to kindly note that the scatter-based propagation is a non-deterministic operation (https://github.com/rusty1s/pytorch_scatter/issues/226). Therefore, we also provide sparse matrix-based propagation to provide the reproducible results.
