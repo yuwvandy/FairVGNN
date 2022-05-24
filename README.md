@@ -21,3 +21,6 @@ bash run_german.sh (bash run_{dataset}.sh for other datasets.)
 ![](./img/german_gcn.png)
 
 We want to kindly note that the table is obtained based on the scatter-based propagation, which is a non-deterministic operation (https://github.com/rusty1s/pytorch_scatter/issues/226). Therefore, we would end up with different results after each running. Furthermore, we provide the sparse-matrix-based propagation, which is a deterministic operation. Both of these two versions of propagation are implemented in our repo for GCN baselines.
+
+
+## Reproduce preliminary results
