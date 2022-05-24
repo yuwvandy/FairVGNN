@@ -24,4 +24,4 @@ We want to kindly note that the table is obtained based on the scatter-based pro
 
 
 ## Reproduce preliminary results
-The prelim folder includes all details to reproduce all preliminary results in this paper.
+The **prelim** folder includes all details to reproduce all preliminary results in this paper.
