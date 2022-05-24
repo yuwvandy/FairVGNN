@@ -14,8 +14,10 @@ To prevent the sensitive leakage caused by feature propagation, we propose a nov
 
 
 ## Result
-Here we list the performance of our model (**FairV**). To reproduce the table, please 
+Here we list the performance of our model (**FairV**). To reproduce the table, please run the following command:
 ```linux
-bash run_{dataset}.sh
+bash run_german.sh (bash run_{dataset}.sh for other corresponding dataset.)
 ```
 ![](./img/german_gcn.png)
+
+We want to kindly note readers that the scatter-based propagation is a non-deterministic operation (https://github.com/rusty1s/pytorch_scatter/issues/226)
