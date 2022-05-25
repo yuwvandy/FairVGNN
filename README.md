@@ -8,7 +8,7 @@ Intuitively, features that are more correlated to sensitive features encode more
 
 ![](./img/channelmask.png)
 
-As demonstrated by the following Figure on German dataset, the Pearson Correlation of each feature channel to the sensitive feature varies significantly after feature propagation, which further increases the model bias as shown in Figure.
+However the feature correlation would change after feature propagation in GNNs, as demonstrated by the following Figure on German dataset. We could clearly see that many innocuous feature channels become highly-correlated to sensitive one after propagation.
 
 
 ## Framework
