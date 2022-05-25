@@ -2,7 +2,7 @@
 
 
 ### Figure 1(a)-(d)
-![](./img/fairvgnn.png)
+![](./img/figure1.png)
 
 * To reproduce Figure 1(a)-(b)
 ```linux
