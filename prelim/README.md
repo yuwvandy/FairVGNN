@@ -17,3 +17,11 @@ bash run.sh
 bash run.sh
 ```
 
+
+### Table 1
+![](./img/table1.png)
+
+* To reproduce Table1
+```linux
+bash run.sh
+```
