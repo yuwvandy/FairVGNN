@@ -1,7 +1,7 @@
-## Preliminary results for FairVGNN
+# Preliminary results for FairVGNN
 
 
-### Figure 1(a)-(d)
+## Figure 1(a)-(d)
 ![](./img/figure1.png)
 
 * To reproduce Figure 1(a)-(b)
@@ -18,7 +18,7 @@ bash run.sh
 ```
 
 
-### Table 1
+## Table 1
 ![](./img/table1.png)
 
 * To reproduce Table1
