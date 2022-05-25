@@ -29,3 +29,11 @@ We want to kindly note that the table is obtained based on the scatter-based pro
 
 ## Reproduce preliminary results
 The **prelim** folder includes all details to reproduce all preliminary results in this paper.
+
+## Analysis the effect of generative adversarial analysis
+```linux
+bash run_adv.sh
+```
+
+## Analysis the effect of adaptive weight clipping
+
