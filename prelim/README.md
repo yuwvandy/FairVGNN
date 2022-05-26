@@ -1,5 +1,6 @@
 # Preliminary results for FairVGNN
 
+Before running the following scripts, please first unzip the three datasets into the dataset folder.
 
 ## Figure 1(a)-(d)
 ![](./img/prelim_analysis.png)
