@@ -147,8 +147,8 @@ if __name__ == '__main__':
     # correlation_var_visual(args.dataset, data.x,
     #                        data.edge_index, 4, args.sens_idx, args.header, args.top_k, -1)
 
-    # correlation_var_visual_simple(args.dataset, data.x, data.edge_index,
-    #                               4, args.sens_idx, args.header, args.top_k, 10)
+    correlation_var_visual_simple(args.dataset, data.x, data.edge_index,
+                                  4, args.sens_idx, args.header, args.top_k, 10)
 
     # channel_homophily(args.dataset, data.x, data.edge_index,
     #                   args.sens_idx, args.prop_k)
