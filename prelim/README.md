@@ -6,7 +6,7 @@
 
 * To reproduce Figure 1(a)-(b)
 ```linux
-bash run.sh
+bash run_prelim_figure1ab.sh
 ```
 * To reproduce Figure 1(c)-(d)
 ```linux
@@ -19,5 +19,5 @@ bash run.sh
 
 * To reproduce Table1
 ```linux
-bash run.sh
+bash run_prelim_table.sh
 ```
