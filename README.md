@@ -37,5 +37,5 @@ bash run_adv.sh
 
 ## Analysis the effect of adaptive weight clipping
 ```linux
-bash run_wc.sh
+bash run_adwc.sh
 ```
