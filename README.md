@@ -6,7 +6,7 @@ Node representation learned by Graph Neural Networks (GNNs) may inherit historic
 
 Intuitively, features that are more correlated to sensitive features encode more discriminative information in learned node representations. Here we mask each feature channel based on their Pearson Correlation to the sensitive feature. We could clearly see that as we mask more sensitive-correlated feature channel, we end up with higher discrimination and bias in predicted results.
 
-![](./img/channelmask.png)
+![](./img/prelim_analysis.png)
 
 However the feature correlation would change after feature propagation in GNNs, as demonstrated by the following Figure on German dataset. We could clearly see that many innocuous feature channels become highly-correlated to sensitive one after propagation.
 
