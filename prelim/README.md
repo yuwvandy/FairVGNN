@@ -2,17 +2,13 @@
 
 
 ## Figure 1(a)-(d)
-![](./img/figure1.png)
+![](./img/prelim_analysis.png)
 
 * To reproduce Figure 1(a)-(b)
 ```linux
 bash run.sh
 ```
-* To reproduce Figure 1(c)
-```linux
-bash run.sh
-```
-* To reproduce Figure 1(d)
+* To reproduce Figure 1(c)-(d)
 ```linux
 bash run.sh
 ```
