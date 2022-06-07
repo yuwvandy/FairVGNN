@@ -17,6 +17,14 @@ To prevent the sensitive leakage caused by feature propagation, we propose a nov
 ![](./img/fairvgnn.png)
 
 
+## Configuration
+The default version of python we use is 3.8.10. Please install all necessary python packages via:
+```linux
+pip install -r requirements.txt
+```
+Please exclusively install torch 1.10.0+cu113 [here](https://pytorch.org/get-started/previous-versions/) and then install its compatiable torch-geometric following instructions [here](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html).
+
+
 ## Result
 Here we list the performance of our model (**FairV**). To reproduce the table, please run the following command:
 ```linux
