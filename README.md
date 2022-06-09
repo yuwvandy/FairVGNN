@@ -1,5 +1,6 @@
 # FairVGNN
 This repository is an official PyTorch(Geometric) implementation of FairVGNN in ["Fair View Graph Neural Network for Fair Node Representation Learning"](https://arxiv.org/abs/2206.03426).
+
 **If you use this software, please consider citing:**
 
 
