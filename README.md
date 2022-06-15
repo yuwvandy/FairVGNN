@@ -59,7 +59,7 @@ bash run_adwc.sh
 ```
 
 
-## Acknowledgement: The code in this work is developed based on part of the code in the following papers:
+## Acknowledgement: The code is developed based on part of the code in the following papers:
 ```linux
 [1] Chirag Agarwal, Himabindu Lakkaraju, and Marinka Zitnik. Towards a unified framework for fair and stable graph representation learning. arXiv preprint arXiv:2102.13186, 2021.
 ```
